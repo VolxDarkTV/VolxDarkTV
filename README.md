@@ -10,9 +10,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: HTML / CSS / JS / VUE JS / BOOTSTRAP / NODE / AXIOS / SASS / LARAVEL / PHP / PHP MYADMIN / MYSQL  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=volxdarktv&theme=dark&title_color=f34334&text_color=7243ee&border_color=6199dd&custom_title=My+Stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volxdarktv&langs_count=8)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=volxdarktv&theme=dark&title_color=f34334&text_color=7243ee&border_color=6199dd&custom_title=My+Stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volxdarktv&langs_count=8)
 
 
 [<img src="imgs/linkedin.png" alt="Linkedin" height="40">](https://www.linkedin.com/in/vincenzo-foti/)
