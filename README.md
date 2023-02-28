@@ -10,7 +10,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: HTML / CSS / JS / VUE JS / BOOTSTRAP / NODE / AXIOS / SASS / LARAVEL / PHP / PHP MYADMIN / MYSQL  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=volxdarktv)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=volxdarktv)]
 
 
 
