@@ -8,7 +8,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files.
 
-Skills: (https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHTML5_logo_and_wordmark.svg&psig=AOvVaw1W-_cdmMVS_GQHr-gelPrR&ust=1677705537827000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCND30aaSuf0CFQAAAAAdAAAAABAJ) HTML / CSS / JS / VUE JS / BOOTSTRAP / NODE / AXIOS / SASS / LARAVEL / PHP / PHP MYADMIN / MYSQL  
+Skills: HTML / CSS / JS / VUE JS / BOOTSTRAP / NODE / AXIOS / SASS / LARAVEL / PHP / PHP MYADMIN / MYSQL  
 
 - 🔭 I’m currently working on this page. 
 
