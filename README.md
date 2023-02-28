@@ -15,7 +15,7 @@ Skills: HTML / CSS / JS / VUE JS / BOOTSTRAP / NODE / AXIOS / SASS / LARAVEL / P
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volxdarktv&langs_count=8)
 
 
-[<img src="imgs/linkedin.png" alt="Linkedin" height="20">](https://www.linkedin.com/in/vincenzo-foti/)
+[<img src="imgs/linkedin.png" alt="Linkedin" height="40">](https://www.linkedin.com/in/vincenzo-foti/)
 
 
 
