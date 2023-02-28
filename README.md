@@ -1,6 +1,6 @@
-### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=volxdarktv)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### Hi there 👋, My name is Vincenzo
 #### I'am a Jr. Full Stack Web Developer
@@ -10,7 +10,7 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 Skills: HTML / CSS / JS / VUE JS / BOOTSTRAP / NODE / AXIOS / SASS / LARAVEL / PHP / PHP MYADMIN / MYSQL  
 
-- 🔭 I’m currently working on this page. 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=volxdarktv)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
