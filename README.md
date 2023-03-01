@@ -15,6 +15,7 @@ Skills: HTML / CSS / JS / VUE JS / BOOTSTRAP / NODE / AXIOS / SASS / LARAVEL / P
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volxdarktv&langs_count=8)
 
 Skills:
+
 <img src="imgs/skills/html5.png" alt="html5.png" height="40"> <img src="imgs/skills/css.png" alt="css.png" height="40"> <img src="imgs/skills/js.png" alt="js.png" height="40"> <img src="imgs/skills/sass.png" alt="sass.png" height="40"> <img src="imgs/skills/nodejs.webp" alt="nodejs.webp" height="40"> <img src="imgs/skills/framework.png" alt="vue.png" height="40"> <img src="imgs/skills/bootstrap.png" alt="bootstrap.png" height="40"> <img src="imgs/skills/axios.png" alt="axios.png" height="40"> <img src="imgs/skills/mamp-pro.png" alt="mamp-pro" height="40"> <img src="imgs/skills/php.png" alt="php.png" height="40"> <img src="imgs/skills/phpmyadmin.png" alt="phpmyadmin.png" height="40"> <img src="imgs/skills/laravel.png" alt="laravel.png" height="40"> 
 
 
