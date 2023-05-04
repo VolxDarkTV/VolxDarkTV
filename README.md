@@ -8,7 +8,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files.
 
-Skills: HTML / CSS / JS / VUE JS / BOOTSTRAP / NODE / AXIOS / SASS / LARAVEL / PHP / PHP MYADMIN / MYSQL  
+Skills: HTML / CSS / JS / VUE JS / BOOTSTRAP / NODE / AXIOS / SASS / LARAVEL / PHP / PHP MYADMIN / MYSQL / C# / .NET / SQL Server 
 <!-- GitHub Stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=volxdarktv&theme=dark&title_color=f34334&text_color=ff9800&border_color=6199dd&custom_title=My+Stats&show_icons=true&icon_color=7243ee&) 
 <!-- Lang Stats -->
@@ -16,7 +16,10 @@ Skills: HTML / CSS / JS / VUE JS / BOOTSTRAP / NODE / AXIOS / SASS / LARAVEL / P
 
 Skills:
 
-<img src="imgs/skills/html5.png" alt="html5.png" height="40"> <img src="imgs/skills/css.png" alt="css.png" height="40"> <img src="imgs/skills/js.png" alt="js.png" height="40"> <img src="imgs/skills/sass.png" alt="sass.png" height="40"> <img src="imgs/skills/nodejs.webp" alt="nodejs.webp" height="40"> <img src="imgs/skills/framework.png" alt="vue.png" height="40"> <img src="imgs/skills/bootstrap.png" alt="bootstrap.png" height="40"> <img src="imgs/skills/axios.png" alt="axios.png" height="40"> <img src="imgs/skills/mamp-pro.png" alt="mamp-pro" height="40"> <img src="imgs/skills/php.png" alt="php.png" height="40"> <img src="imgs/skills/phpmyadmin.png" alt="phpmyadmin.png" height="40"> <img src="imgs/skills/laravel.png" alt="laravel.png" height="40"> 
+<img src="imgs/skills/html5.png" alt="html5.png" height="40"> <img src="imgs/skills/css.png" alt="css.png" height="40"> <img src="imgs/skills/js.png" alt="js.png" height="40"> <img src="imgs/skills/sass.png" alt="sass.png" height="40"> <img src="imgs/skills/nodejs.webp" alt="nodejs.webp" height="40"> <img src="imgs/skills/framework.png" alt="vue.png" height="40"> <img src="imgs/skills/bootstrap.png" alt="bootstrap.png" height="40"> <img src="imgs/skills/axios.png" alt="axios.png" height="40"> <img src="imgs/skills/mamp-pro.png" alt="mamp-pro" height="40"> <img src="imgs/skills/php.png" alt="php.png" height="40"> <img src="imgs/skills/phpmyadmin.png" alt="phpmyadmin.png" height="40"> <img src="imgs/skills/laravel.png" alt="laravel.png" height="40"> <img src="imgs/skills/c-sharp.png" alt="C#" height="40"> <img src="imgs/skills/sql-server.png" alt="SQL Server" height="40"> <img src="imgs/skills/dot-net.png" alt=".NET" height="40"> 
+
+
+
 
 Connect with ME:
 
