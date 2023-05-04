@@ -4,7 +4,8 @@
 
 ### Hi there 👋, My name is Vincenzo
 #### I'am a Jr. Full Stack Web Developer
-<img src="imgs/banner.jpg" alt="Banner 404" height="40">
+[<img src="imgs/banner.jpg" alt="Banner 404" height="40">](https://www.linkedin.com/in/vincenzo-foti/)
+
 
 <!-- GitHub Stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=volxdarktv&theme=dark&title_color=f34334&text_color=ff9800&border_color=6199dd&custom_title=My+Stats&show_icons=true&icon_color=7243ee&) 
