@@ -4,7 +4,7 @@
 
 ### Hi there 👋, My name is Vincenzo
 #### I'am a Jr. Full Stack Web Developer
-[<img src="imgs/banner.jpg" alt="Banner 404" height="100">](https://www.linkedin.com/in/vincenzo-foti/)
+[<img src="imgs/banner.jpg" alt="Banner 404" height="300">](https://www.linkedin.com/in/vincenzo-foti/)
 
 
 <!-- GitHub Stats -->
