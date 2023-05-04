@@ -8,8 +8,8 @@
 
 
 <!-- GitHub Stats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=volxdarktv&theme=dark&title_color=f34334&text_color=ff9800&border_color=6199dd&custom_title=My+Stats&show_icons=true&icon_color=7243ee&) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volxdarktv&langs_count=8)
 <!-- Lang Stats -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=volxdarktv&theme=dark&title_color=f34334&text_color=ff9800&border_color=6199dd&custom_title=My+Stats&show_icons=true&icon_color=7243ee&)               ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volxdarktv&langs_count=8)
 
 Skills:
 
